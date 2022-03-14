@@ -1,0 +1,16 @@
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.AssemblyInfo.cs
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\SearchAlgorithm.exe
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\SearchAlgorithm.deps.json
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\SearchAlgorithm.runtimeconfig.json
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\SearchAlgorithm.runtimeconfig.dev.json
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\SearchAlgorithm.dll
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\ref\SearchAlgorithm.dll
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\bin\Debug\net5.0\SearchAlgorithm.pdb
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.dll
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\ref\SearchAlgorithm.dll
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.pdb
+C:\Users\Selma\source\repos\SearchAlgorithm\SearchAlgorithm\obj\Debug\net5.0\SearchAlgorithm.genruntimeconfig.cache
